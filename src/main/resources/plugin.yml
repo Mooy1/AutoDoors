@@ -1,0 +1,7 @@
+name: AutoDoors
+version: ${project.version}
+main: io.github.mooy1.autodoors.AutoDoors
+author: Mooy1
+description: Adds automatic doors
+load: STARTUP
+api-version: 1.13
